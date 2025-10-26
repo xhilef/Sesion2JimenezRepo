@@ -1,9 +1,5 @@
 package estructurascontroliterativas;
 
-/**
- *
- * @author jimherfe
- */
 public class EstructurasIterativas {//inicia clase
     //estructura de control for imprimir abecedario
     public void iterativaFor(){

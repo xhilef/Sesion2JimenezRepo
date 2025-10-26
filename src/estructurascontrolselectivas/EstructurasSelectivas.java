@@ -1,9 +1,5 @@
 package estructurascontrolselectivas;
 
-/**
- *
- * @author jimherfe
- */
 public class EstructurasSelectivas {
     //funcion para conocer la estructura de control selectiva if
     public void selectivaIf(){
